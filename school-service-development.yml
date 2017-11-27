@@ -1,6 +1,5 @@
 server:
-  context-path: /school
-  port: 6000
+  port: 6002
 
 hystrix:
   command:
